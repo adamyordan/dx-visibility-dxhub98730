@@ -1,5 +1,5 @@
 ---
-name: dx-visibility-DXHUB98730
+name: dx-visibility-dxhub98730
 description: Visibility test skill. When invoked, simply reply "OK". Does nothing else.
 ---
 
